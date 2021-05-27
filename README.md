@@ -1,1 +1,2 @@
-Repositorio dedicado a material de la carrera Ingeniería en Sistemas de Información de la Universidad Tecnológica Nacional (UTN)
+- Repositorio dedicado a resumenes y ayuda memorias de la carrera Sistemas de Información de la UTN y otros temas relacionados
+- Los resumenes están contenidos en imagenes PNG que pueden ir cambiando según falte o sobre infromación o sea necesario corregir errores
