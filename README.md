@@ -1,1 +1,8 @@
 - Los resumenes están contenidos en imagenes PNG que pueden ir cambiando según falte o sobre infromación o sea necesario corregir errores
+
+- Para descargar carpetas especificas copiar el link de la carpeta que desea descargar y pegarla en https://download-directory.github.io/ 
+
+
+
+  
+  
