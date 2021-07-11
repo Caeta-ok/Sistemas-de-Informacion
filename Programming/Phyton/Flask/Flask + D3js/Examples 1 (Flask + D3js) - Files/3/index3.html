@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset="utf-8" />
+	<link type="text/css" href="{{url_for('static', filename='styles/style.css')}}" rel="stylesheet">
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+<body>
+	<div></div>
+	<svg></svg>
+	<script>
+		var data = {{from_flask.data | safe}}
+	</script>
+	<script type="text/javascript" src="{{url_for('static', filename = 'main0.js')}}"></script>
+</body>
+</html>
