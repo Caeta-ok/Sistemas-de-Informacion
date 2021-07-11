@@ -1,2 +1,0 @@
-1) Fila de DataGridView en azul pero no seleccionada por mal funcionamiento del mouse
-	- Inicializar las filas sin que estén pintadas en azul
