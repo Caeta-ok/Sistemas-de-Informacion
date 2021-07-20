@@ -1,0 +1,10 @@
+<body>
+    <div class='div0'>
+        <mat-form-field class="input-field">
+            <mat-label class="input-text">Select date</mat-label>
+            <input matInput [matDatepicker]="datepicker">
+            <mat-datepicker-toggle matSuffix [for]="datepicker" class="datepicker-color"></mat-datepicker-toggle>
+            <mat-datepicker #datepicker></mat-datepicker>
+        </mat-form-field>
+    </div>
+</body>
