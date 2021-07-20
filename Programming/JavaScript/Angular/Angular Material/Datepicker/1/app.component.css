@@ -1,0 +1,28 @@
+body
+{
+    background-color: #080D1E;
+}
+.div0
+{
+    position:relative;
+    left:30px;
+    top:30px;
+    width:150px;
+    height:60px;
+    background-color: #202433;
+}
+
+.input-field
+{
+    width:100px;
+    position:relative;
+    color:gainsboro;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-color: gainsboro;
+}
+
+.datepicker-color
+{
+    color:gainsboro;
+}
