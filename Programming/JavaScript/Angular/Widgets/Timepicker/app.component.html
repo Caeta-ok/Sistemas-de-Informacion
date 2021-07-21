@@ -1,0 +1,9 @@
+<body>
+    <div class='div0'>
+        <mat-form-field class="input-field">
+            <mat-label class="input-text">Initial time</mat-label>
+            <input matInput placeholder="Editable dial" [ngxTimepicker]="editableDial" readonly>
+            <ngx-material-timepicker #editableDial [enableKeyboardInput]="true" class = "timepicker-color"></ngx-material-timepicker>
+        </mat-form-field>
+    </div>
+</body>
